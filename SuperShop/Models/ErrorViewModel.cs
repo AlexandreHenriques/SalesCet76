@@ -1,6 +1,6 @@
 using System;
 
-namespace SalesCet76.Web.Models
+namespace SuperShop.Models
 {
     public class ErrorViewModel
     {

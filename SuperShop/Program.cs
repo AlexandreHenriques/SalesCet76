@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SalesCet76.Web
+namespace SuperShop
 {
     public class Program
     {

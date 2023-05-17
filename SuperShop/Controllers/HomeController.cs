@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SalesCet76.Web.Models;
+using SuperShop.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SalesCet76.Web.Controllers
+namespace SuperShop.Controllers
 {
     public class HomeController : Controller
     {
